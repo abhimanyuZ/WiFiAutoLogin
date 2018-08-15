@@ -1,3 +1,3 @@
-cd /home/abhiz/Desktop;
+cd ~/Desktop;
 python wifi.py;
 exit
