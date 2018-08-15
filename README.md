@@ -5,9 +5,9 @@ This is limited to Linux OS now.
 
 Prerequisite:
 
-1.Python  
-2.Pip 
-3.Selenium web driver 
+1.Python
+2.Pip
+3.Selenium web driver
 4.Firefox Web Browser (Ubunutu generally comes with Firefox pre-installed)  
 
 Installation of Prerequisites:
