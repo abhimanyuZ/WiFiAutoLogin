@@ -29,6 +29,8 @@ After downloading, extract the zip file.
 
 Open wifi.py file and search for "CS16B1001" and "your password", then replace it with your registration number and password respectively. (e.g value="CS16B1001" will become value="CS16B1002" and value="your password" will be value="Mypass")
 
+Note: Don't edit any other field. Don't even add an extra space in the file.
+
 Save and exit.
 
 Copy wifi.sh and wifi.py file to preferably Desktop.
