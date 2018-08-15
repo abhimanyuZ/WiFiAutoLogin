@@ -27,7 +27,7 @@ Type the following three commands and hit enter one by one:-
 
 After downloading, extract the zip file.
 
-Open wifi.py file and search for "your id" and "your password", then replace it with you registration number and password respectively. (e.g value="your id" will become value="CS16B1001" and value="your password" will be value="Mypass")
+Open wifi.py file and search for "CS16B1001" and "your password", then replace it with your registration number and password respectively. (e.g value="CS16B1001" will become value="CS16B1002" and value="your password" will be value="Mypass")
 
 Save and exit.
 
