@@ -34,8 +34,9 @@ visit the link and follow the answer https://askubuntu.com/a/286651   (Nautilus 
 That's all!
 
 Do this whenever your are logged out of wifi:
-  If wifi is connected, go to desktop(shortcut: windows/super key + D) , double click wifi.sh and wait for a firefox popup.
-  You will be logged in to wifi in no time and with just a double click.
+
+If wifi is connected, go to desktop(shortcut: windows/super key + D) , double click wifi.sh and wait for a firefox popup.
+You will be logged in to wifi in no time and with just a double click.
 
 
 I hope that it will save your time and reduce the irritation :)
