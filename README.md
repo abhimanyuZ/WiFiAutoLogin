@@ -13,7 +13,7 @@ Prerequisite:
 
 4.Firefox Web Browser (Ubunutu generally comes with Firefox pre-installed)  
 
-Installation of Prerequisites:
+<b>Installation of Prerequisites:</b>
 
 Open terminal by pressing ctrl+alt+T keys combination
 
