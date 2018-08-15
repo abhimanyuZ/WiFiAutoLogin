@@ -25,7 +25,8 @@ Type the following three commands and hit enter one by one:-
 
 3.sudo pip install selenium
 
-Download the <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/archive/master.zip">Files</a>
+Download this <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/archive/master.zip">File</a>
+
 After downloading, extract the zip file.
 
 Open wifi.py file and search for "CS16B1001" and "your password", then replace it with your registration number and password respectively. (e.g value="CS16B1001" will become value="CS16B1002" and value="your password" will be value="Mypass")
