@@ -25,7 +25,7 @@ Type the following three commands and hit enter one by one:-
 
 3.sudo pip install selenium
 
-Download this <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/archive/master.zip">File</a>
+Once above tools are installed, download this <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/archive/master.zip">File</a>
 
 After downloading, extract the zip file.
 
