@@ -35,7 +35,7 @@ Open wifi.py file and search for "CS16B1001" and "your password", then replace i
 
 Save and exit.
 
-Copy wifi.sh and wifi.py file to preferably Desktop.
+Copy wifi.sh and wifi.py file to Desktop.
 
 Once again open terminal and enter the command "cd ~/Desktop;sudo chmod +x wifi.sh;"    (without double quotes!)
 
