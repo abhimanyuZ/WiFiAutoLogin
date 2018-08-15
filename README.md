@@ -1,7 +1,7 @@
 # WiFiAutoLogin
 Provides single click login in Ruckus Managed LAN 
 
-This is limited to Linux OS now.
+Set up may take 15 mins and this is limited to Linux OS.
 
 <b>Prerequisite:</b>
 
