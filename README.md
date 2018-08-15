@@ -3,7 +3,7 @@ Provides single click login in Ruckus Managed LAN
 
 This is limited to Linux OS now.
 
-Prerequisite:
+<b>Prerequisite:</b>
 
 1.Python
 
@@ -35,11 +35,11 @@ Copy wifi.sh and wifi.py file to preferably Desktop.
 
 Once again open terminal and enter the command "cd ~/Desktop;sudo chmod +x wifi.sh;"    (without double quotes!)
 
-Last step :
+<b>Last step :</b>
 
 visit the link and follow the answer https://askubuntu.com/a/286651   (Nautilus in the answer means your file manager)
 
-That's all!
+<b>That's all!</b>
 
 Do this whenever your are logged out of wifi:
 
