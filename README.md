@@ -1,7 +1,12 @@
 # WiFiAutoLogin
-Provides single click login in Ruckus Managed LAN 
+Provides single click login in Ruckus Managed LAN in NIT Puducherry Campus.
 
-Set up may take 15 mins and this is limited to Linux OS.
+<b>For Android dowload the app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/NITPyWiFi.apk">NITPyWiFi.apk</a><b>
+  
+
+<b>For Ubuntu : </b>
+
+Set up may take 15 mins and this is limited to Ubuntu(Linux OS).
 
 <b>Prerequisite:</b>
 
