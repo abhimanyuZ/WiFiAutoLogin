@@ -1,10 +1,10 @@
 # WiFiAutoLogin
 Provides single click login in Ruckus Managed LAN in NIT Puducherry Campus.
 
-<b>For Android dowload the app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/NITPyWiFi.apk">NITPyWiFi.apk</a><b>
+<b>For Android dowload the app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/NITPyWiFi.apk">NITPyWiFi.apk</a></b>
   
 
-<b>For Ubuntu : </b>
+<b>For Ubuntu :</b>
 
 Set up may take 15 mins and this is limited to Ubuntu(Linux OS).
 
@@ -36,7 +36,7 @@ After downloading, extract the zip file.
 
 Open wifi.py file and search for "CS16B1001" and "your password", then replace it with your registration number and password respectively. (e.g value="CS16B1001" will become value="CS16B1002" and value="your password" will be value="Mypass")
 
-<b>Note:</b> Don't edit any other field. Don't even add an extra space in the file.
+<b>Note:</b> Don't edit any other field. Don't add even an extra space in the file.
 
 Save and exit.
 
