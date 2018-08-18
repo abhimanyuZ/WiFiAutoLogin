@@ -18,6 +18,10 @@ import android.webkit.WebViewClient;
 
 public class LogoutActivity extends AppCompatActivity {
     public WebView mWebView;
+    public static SharedPreferences sh;
+    public static SharedPreferences.Editor editor;
+    public static String userid;
+    public static String userpwd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,10 +42,18 @@ public class LogoutActivity extends AppCompatActivity {
             @Override
             public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
+                
+                sh = getSharedPreferences("myprefe", 0);
+                editor = sh.edit();
+
+                
+                userid = sh.getString("name", null);
+                userpwd = sh.getString("password", null);
+                
                 mWebView.loadUrl(
                         "javascript:(function() { " +
-                                "document.getElementById('UE-Username').value='CS16B1001';"
-                                + "document.getElementById('UE-Password').value='abhi00sai@wifi';"
+                                "document.getElementById('UE-Username').value='"+userid+"';"
+                                + "document.getElementById('UE-Password').value='"+userpwd+"';"
                                 + "document.forms['loginForm'].submit();" +
                                 "})()");
             }
