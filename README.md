@@ -1,7 +1,7 @@
 # WiFiAutoLogin
 Provides single click login functionality in Ruckus Managed LAN in NIT Puducherry Campus.
 
-<b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/NITPyWiFi.apk?raw=true">NITPyWiFi.apk</a></b>
+<b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/LazyFi.apk?raw=true">LazyFi.apk</a></b>
   
 
 <b>For Ubuntu :</b>
