@@ -3,6 +3,7 @@ Provides single click login functionality in Ruckus Managed LAN in NIT Puducherr
 
 <b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/LazyFi.apk?raw=true">LazyFi.apk</a></b>
   
+<b>Note:</b> The following method aims to encourage people for exploring browser automation techniques. There are several possible ways to automate the login process. Like using Tampermonkey/Greasemonkey to run JS when login portal opens (I prefer this for it's speed!).
 
 <b>For Ubuntu :</b>
 
