@@ -2,9 +2,20 @@
 Provides single click login functionality in Ruckus Managed LAN in NIT Puducherry Campus.
 
 <b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/LazyFi.apk?raw=true">LazyFi.apk</a></b>
+ 
+<b>Update:</b> I realized on linux based operating systems we can use the <code>curl</code> command to achieve the same thing(without installing any additional packages). So I have added two methods below. Use the one which suits you.<br><br>
+<b>Method 1</b><br>
+<ul>
+<li>Download this script file <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/wifiLogin.sh?raw=true">WifiLogin.sh</a>. 
+<li>Edit the username and password in the file.
+<li>Give it execution right using <code>chmod +x script.sh</code>  in the terminal.
+<li>Double click on it and it'll login for you. 
+ </ul>
   
 <b>Note:</b> The following method aims to encourage people for exploring browser automation techniques. There are several possible ways to automate the login process. Like using Tampermonkey/Greasemonkey to run JS when login portal opens (I prefer this for it's speed!).
 
+<b>Method 2</b><br>
+  
 <b>For Ubuntu :</b>
 
 Set up may take 15 mins and this is limited to Ubuntu(Linux OS).
