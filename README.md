@@ -6,7 +6,7 @@ Provides single click login functionality in Ruckus Managed LAN in NIT Puducherr
 <b>Update:</b> I realized on linux based operating systems we can use the <code>curl</code> command to achieve the same thing(without installing any additional packages). So I have added two methods below. Use the one which suits you.<br><br>
 <b>Method 1</b><br>
 <ul>
-<li>Download this script file <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/WifiLogin.sh?raw=true" download>WifiLogin.sh</a>. 
+<li>Open this link: <a href="https://raw.githubusercontent.com/abhimanyuZ/WiFiAutoLogin/master/WifiLogin.sh" download>WifiLogin.sh</a> and hit ctrl+s to save it.
 <li>Edit the username and password in the file.
 <li>Give it execution right using <code>chmod +x script.sh</code>  in the terminal.
 <li>Double click on it and it'll login for you. 
