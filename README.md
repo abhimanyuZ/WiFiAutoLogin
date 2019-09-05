@@ -1,12 +1,12 @@
 # WiFiAutoLogin
 Provides single click login functionality in Ruckus Managed LAN in NIT Puducherry Campus.
 
-<b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/LazyFi.apk?raw=true">LazyFi.apk</a></b>
+<b>For Android Phones download this app <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/LazyFi.apk?raw=true" download>LazyFi.apk</a></b>
  
 <b>Update:</b> I realized on linux based operating systems we can use the <code>curl</code> command to achieve the same thing(without installing any additional packages). So I have added two methods below. Use the one which suits you.<br><br>
 <b>Method 1</b><br>
 <ul>
-<li>Download this script file <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/WifiLogin.sh?raw=true">WifiLogin.sh</a>. 
+<li>Download this script file <a href="https://github.com/abhimanyuZ/WiFiAutoLogin/blob/master/WifiLogin.sh?raw=true" download>WifiLogin.sh</a>. 
 <li>Edit the username and password in the file.
 <li>Give it execution right using <code>chmod +x script.sh</code>  in the terminal.
 <li>Double click on it and it'll login for you. 
